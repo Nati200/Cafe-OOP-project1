@@ -1,4 +1,4 @@
-public class cafe{
+public class Cafe {
     product p1;
     product p2;
 

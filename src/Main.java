@@ -1,10 +1,10 @@
-public class main {
+public class Main {
     public static void main(String[] args) {
-        cafe c = new cafe();
+        Cafe c = new Cafe();
 
         c.addproducts();
         c.showproduct();
-        
+
         c.removeProduct("Tea");
 
         c.showproduct();
